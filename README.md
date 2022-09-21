@@ -2,6 +2,7 @@
 
 ## Learning Progress Review - Week 1
 
+#### Introduction to Data Engineering and Basics Python (Python Programming I) 
 Data Engineering is interesting topics, even though currently it is not as widely discussed as Data Science and Data Analysis. But actually, Data Engineer role has importance for providing good quality data for analytics, reports, Machine Learning modelling, etc. No wonder if in my personal research, I found out the trend of high demand for Data Engineer roles by the companies. I believe there will be more job opportunities available in the near future.
 
 Previously data analytical architecture is part of Software Engineer scope of works. But as the data became bigger in volume, faster in traffic, more various, and more issue in its integrity, a specialist is required to handle the data infrastructure. The Software Engineer role then replaced by a Data Engineer who fit the purpose which is bridging the Tech Team (Software Engineer at back end) with Data Team (Data Analyst and Data Scientist). Software Engineer responsible for transactional database, while Data Engineer responsible for analytical database.
